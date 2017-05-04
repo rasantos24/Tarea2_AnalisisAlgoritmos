@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1493314720 source:c:\users\rafael\documents\tarea2_aa\main.cpp
+	"Test.h"
+	<iostream>
+	<map>
+
+1493314720 c:\users\rafael\documents\tarea2_aa\test.h
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1493314720 source:c:\users\rafael\documents\tarea2_aa\test.cpp
+	"Test.h"
+	"Map.h"
+
+1493344487 c:\users\rafael\documents\tarea2_aa\map.h
+	<iostream>
+	<map>
+	<vector>
+
